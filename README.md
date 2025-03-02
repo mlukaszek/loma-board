@@ -2,9 +2,9 @@
 
 A breakout board for HopeRF RFM69, and (optionally) Seeed Studio Xiao ESP32C6.
 
-<img src="img/front.png" width=450 alt="Front view" />
+<img src="img/front.png" width=600 alt="Front view" />
 
-<img src="img/back.png" width=450 alt="Back view" />
+<img src="img/back.png" width=600 alt="Back view" />
 
 ## Quickstart
 
