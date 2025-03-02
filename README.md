@@ -45,6 +45,10 @@ Never use a radio without an antenna. You can either:
 
 No, they are not pin-compatible with RFM69(H)W.
 
+## How big is it?
+
+Rather small: 3 x 4 cm, or about 1.2 x 1.6 inches.
+
 ### I want a different MCU / don't want Xiao ESP32C6
 
 You can also use the board as merely a breakout board for RFM69, and do not place the ESP32 module at all. If you do that, use J1 header to power the radio module and connect the SPI pins to the MCU of your choice. Bonus points - if you use an angled pin header for J1, you can use it with a breakboard, too.
